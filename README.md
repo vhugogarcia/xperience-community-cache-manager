@@ -1,6 +1,6 @@
 # Xperience Community: Cache Manager
 
-[![Nuget](https://img.shields.io/nuget/v/XperienceCommunity.CacheManager)](https://www.nuget.org/packages/XperienceCommunity.CacheManager) [![build](https://github.com/vhugogarcia/xperience-community-cache-manager/actions/workflows/build.yml/badge.svg)](https://github.com/vhugogarcia/xperience-community-cache-manager/actions/workflows/build.yml)
+[![Nuget](https://img.shields.io/nuget/v/XperienceCommunity.CacheManager)](https://www.nuget.org/packages/XperienceCommunity.CacheManager)
 
 ## Description
 
